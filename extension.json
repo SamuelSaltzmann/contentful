@@ -1,16 +1,16 @@
 {
-    "id": "required-reference",
-    "name": "Required References",
-    "srcdoc": "./index.html",
-    "fieldTypes": ["Entry"],
-    "parameters":{
-      "instance": [
-        {
-          "id": "helpText",
-          "type": "Symbol",
-          "name": "Help text",
-          "description": "Help text for a user to help them understand the editor"
-        }
-      ]
-    }
+  "id": "required-reference",
+  "name": "Required References",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Entry"],
+  "parameters":{
+    "instance": [
+      {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "Help text for a user to help them understand the editor"
+      }
+    ]
   }
+}
