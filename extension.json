@@ -2,7 +2,7 @@
   "id": "required-reference",
   "name": "Required References",
   "srcdoc": "./index.html",
-  "fieldTypes": ["Entry"],
+  "fieldTypes": ["Asset"],
   "parameters":{
     "instance": [
       {
