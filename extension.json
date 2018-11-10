@@ -1,7 +1,7 @@
 {
 	"id": "requiredFields",
 	"name": "Advanced required fields",
-	"srcdoc":"index.html",
+	"src":"index.html",
 	"fieldTypes": ["Asset"],
 	"parameters": {
 		"instance": [
