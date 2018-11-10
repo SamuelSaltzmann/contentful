@@ -1,5 +1,6 @@
 {
   "id": "ace-editor",
   "name": "Ace editor",
+  "srcdoc": "./index.html",
   "fieldTypes": ["Text"]
 }
