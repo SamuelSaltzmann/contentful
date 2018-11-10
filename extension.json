@@ -1,14 +1,15 @@
 {
 	"id": "requiredFields",
 	"name": "Advanced required fields",
+	"srcdoc":"index.html",
 	"fieldTypes": ["Asset"],
 	"parameters": {
 		"instance": [
-		{
-			"id": "uniqueReference",
-			"type": "Asset",
-			"name": "Unique reference"
-		}
+			{
+				"id": "uniqueReference",
+				"type": "Asset",
+				"name": "Unique reference"
+			}
 		]
 	}
 }
