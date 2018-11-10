@@ -1,6 +1,16 @@
 {
-  "id": "ace-editor",
-  "name": "Ace editor",
+  "id": "required-reference",
+  "name": "Required References",
   "srcdoc": "./index.html",
-  "fieldTypes": ["Text"]
+  "fieldTypes": ["Asset"],
+  "parameters":{
+    "instance": [
+      {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "Help text for a user to help them understand the editor"
+      }
+    ]
+  }
 }
