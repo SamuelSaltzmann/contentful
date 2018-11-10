@@ -1,6 +1,16 @@
 {
-  "id": "youtube-d",
+  "id": "youtube-id",
   "fieldTypes":["Symbol"],
-  "name":"Youtube ID",
-  "srcdoc":"index.html"
+  "name":"Youtube ID 2",
+  "srcdoc":"index.html",
+  "parameters": {
+    "instance": [
+      {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "Help text for a user to help them understand the editor"
+      }
+    ]
+  }
 }
