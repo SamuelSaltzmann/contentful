@@ -1,6 +1,6 @@
 "extension": {
 	"name": "Advanced required fields",
-	"fieldTypes": [{type: "asset"}],
+	"fieldTypes": [{type: "Asset"}],
 	"parameters": {
 		"instance": [
 		{
