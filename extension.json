@@ -1,16 +1,6 @@
 {
-  "id": "required-references1",
-  "name": "Required References",
+  "id": "ace-editor",
+  "name": "Ace editor",
   "srcdoc": "./index.html",
-  "fieldTypes": ["Entry"],
-  "parameter":{
-    "instance": [
-      {
-        "id": "helpText",
-        "type": "Symbol",
-        "name": "Help text",
-        "description": "Help text for a user to help them understand the editor"
-      }
-    ]
-  }
+  "fieldTypes": ["Text"]
 }
