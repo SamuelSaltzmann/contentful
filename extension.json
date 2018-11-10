@@ -1,4 +1,5 @@
-"extension": {
+{
+	"id": "requiredFields",
 	"name": "Advanced required fields",
 	"fieldTypes": [{type: "Asset"}],
 	"parameters": {
