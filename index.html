@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+	<script src="https://unpkg.com/contentful-ui-extensions-sdk@3"></script>
+</head>
+
+<script>
+		window.contentfulExtension.init(function(api) {
+		var content_type = api.contentType.sys.id;
+		console.log(api);
+	});
+</script>
