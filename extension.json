@@ -1,15 +1,6 @@
 {
-	"id": "requiredFields",
-	"name": "Advanced required fields",
-	"src":"index.html",
-	"fieldTypes": ["Asset"],
-	"parameters": {
-		"instance": [
-			{
-				"id": "uniqueReference",
-				"type": "Asset",
-				"name": "Unique reference"
-			}
-		]
-	}
+	"id": "extn",
+	"name": "Vanilla HTML5 UI Extension template",
+	"src": "./index.html",
+	"fieldTypes": ["Text"]
 }
