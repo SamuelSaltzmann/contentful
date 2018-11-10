@@ -1,5 +1,5 @@
 {
-  "id": "youtube-id",
+  "id": "youtube-d",
   "fieldTypes":["Symbol"],
   "name":"Youtube ID",
   "srcdoc":"index.html"
