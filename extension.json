@@ -1,14 +1,8 @@
 {
-	"id": "requiredFields",
-	"name": "Advanced required fields",
-	"fieldTypes": ["Asset"],
-	"parameters": {
-		"instance": [
-			{
-				"id": "uniqueReference",
-				"type": "Asset",
-				"name": "Unique reference"
-			}
-		]
-	}
+	"id": "youtube-id",
+	"fieldTypes": [
+		"Symbol"
+	],
+	"name": "Youtube ID",
+	"srcdoc": "index.html"
 }
