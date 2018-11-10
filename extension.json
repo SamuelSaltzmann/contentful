@@ -1,7 +1,7 @@
 {
 	"id": "requiredFields",
 	"name": "Advanced required fields",
-	"fieldTypes": [{type: "Asset"}],
+	"fieldTypes": ["Asset"],
 	"parameters": {
 		"instance": [
 		{
